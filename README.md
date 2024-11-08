@@ -49,7 +49,7 @@ docker-compose up -d
 
 ## 🔧 Configuração
 
-O serviço estará disponível em `http://pw.9level.network`
+O serviço estará disponível em ([https://pw.9level.network](https://pw.9level.network))
 
 Requisitos do sistema:
 - Docker
