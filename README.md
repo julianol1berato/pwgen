@@ -26,7 +26,7 @@ Um gerador de senhas seguro e elegante com interface inspirada no ParrotOS Secur
 - Backend: Go 1.21
 - Frontend: HTML5, CSS3, JavaScript
 - Container: Docker & Docker Compose
-- Proxy Reverso: Traefik v2.10
+- Proxy Reverso: Traefik v3.2.0
 - UI/UX: Inspirado no ParrotOS Security
 
 ## 📦 Instalação
@@ -34,7 +34,7 @@ Um gerador de senhas seguro e elegante com interface inspirada no ParrotOS Secur
 1. Clone o repositório
 ```bash
 git clone https://github.com/julianol1berato/pwgen.git
-cd password-generator
+cd pwgen
 ```
 
 2. Configure o DNS
@@ -61,7 +61,7 @@ Requisitos do sistema:
 
 - Geração de senhas totalmente no lado do servidor
 - Sem armazenamento de senhas geradas
-- Comunicação via HTTPS (configure SSL no Traefik)
+- Comunicação via HTTP - Uso em conjunto com CloudFlare Tunnels
 - Validações tanto no frontend quanto no backend
 
 ## 🤝 Contribuindo
