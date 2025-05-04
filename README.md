@@ -84,6 +84,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📬 Contato
 
-Juliano Liberato - [@juliano.liberato](https://bio.9level.network)
+Juliano Liberato - [@juliano.liberato](https://bio.9level.com.br)
 
 Link do Projeto: [https://github.com/julianol1berato/pwgen](https://github.com/julianol1berato/pwgen)
