@@ -1,4 +1,4 @@
-# 🔐 Password Generator | 9Level Network
+# 🔐 Password Generator | 9Level Dev
 
 Um gerador de senhas seguro e elegante com interface inspirada no ParrotOS Security. Gere senhas fortes com facilidade, escolhendo entre diferentes tipos de caracteres e comprimentos personalizados.
 
@@ -39,7 +39,7 @@ cd pwgen
 
 2. Configure o DNS
 ```
-Aponte pw.9level.network para o IP do seu servidor
+Aponte pw.9level.dev para o IP do seu servidor
 ```
 
 3. Execute com Docker Compose
@@ -49,7 +49,7 @@ docker-compose up -d
 
 ## 🔧 Configuração
 
-O serviço estará disponível em ([https://pw.9level.network](https://pw.9level.network))
+O serviço estará disponível em ([https://pw.9level.dev](https://pw.9level.dev))
 
 Requisitos do sistema:
 - Docker
