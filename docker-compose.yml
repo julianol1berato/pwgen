@@ -3,7 +3,7 @@ services:
     build: .
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.pwgen.rule=Host(`pw.9level.network`)"
+      - "traefik.http.routers.pwgen.rule=Host(`pw.9level.com.br`) || Host(`pw.9level.dev`)"
       - "traefik.http.routers.pwgen.entrypoints=web"
       - "traefik.http.services.pwgen.loadbalancer.server.port=80"
     restart: unless-stopped
