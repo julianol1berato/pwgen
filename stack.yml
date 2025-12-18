@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   pwgen:
-    image: pwgen:latest
+    image: registry.9level.dev/pwgen:latest
     networks:
       - proxy
     deploy:
